@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const Text("Login Screen Demo"),
+      home: const Text("Login Screen Demo đasadawdsdsdsa"),
     );
   }
 }
